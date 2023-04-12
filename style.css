@@ -1,0 +1,53 @@
+body{
+  background-color: #65afef;
+}
+.container{
+  margin: auto;
+  background: #bddef5;
+  border-radius: 10px;
+  max-width: 900px;
+}
+
+#heading1{
+  font-size: 40px;
+  text-align: center;
+  color:rgb(218, 113, 123);
+}
+
+#heading2{
+  font-size: 25px;
+  text-align: center;
+}
+
+#banner{
+  height: 400px;
+  max-width: 900px;
+  background-position: center;
+  background-size: cover;
+  border-style: solid;
+  border-color: white;
+  border-radius: 3px;
+  margin: 10px 0px;
+
+}
+#nba{
+  padding: 5px 10px;
+  border-style: solid;
+  border: 3px solid white;
+  margin-bottom: 10px;
+}
+#AS{
+  padding: 5px 10px;
+  border: 3px solid white;
+  border-radius: 3px;
+}
+a{
+  color: black;
+  text-decoration: underline;
+}
+ul{
+  display: inline-block;
+}
+.quote{
+  font-size: 18px;
+}
